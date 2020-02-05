@@ -13,7 +13,7 @@ is	VBZ	be
 fair	JJ	fair
 to	TO	to
 admit	VV	admit
-that	IN/that	that
+that	IN	that
 any	DT	any
 fraternity	NN	fraternity
 has	VHZ	have
@@ -86,7 +86,7 @@ in	IN	in
 1845	CD	@card@
 ,	,	,
 insisting	VVG	insist
-that	IN/that	that
+that	IN	that
 Parker	NP	Parker
 should	MD	should
 not	RB	not
@@ -95,7 +95,7 @@ persecuted	VVN	persecute
 or	CC	or
 calumniated	VVN	calumniate
 and	CC	and
-that	IN/that	that
+that	IN	that
 in	IN	in
 this	DT	this
 republic	NN	republic
@@ -121,7 +121,7 @@ Association	NP	Association
 could	MD	could
 legitimately	RB	legitimately
 decide	VV	decide
-that	IN/that	that
+that	IN	that
 Parker	NP	Parker
 `	``	'
 `	``	'
@@ -193,7 +193,7 @@ a	DT	a
 delicate	JJ	delicate
 matter	NN	matter
 --	:	--
-that	IN/that	that
+that	IN	that
 every	DT	every
 justification	NN	justification
 existed	VVN	exist
@@ -288,7 +288,7 @@ liberty	NN	liberty
 had	VHD	have
 never	RB	never
 meant	VVN	mean
-that	IN/that	that
+that	IN	that
 they	PP	they
 would	MD	would
 follow	VV	follow
@@ -340,7 +340,7 @@ them	PP	them
 or	CC	or
 else	RB	else
 argue	VVP	argue
-that	IN/that	that
+that	IN	that
 after	IN	after
 all	DT	all
 Parker	NP	Parker
@@ -395,7 +395,7 @@ of	IN	of
 positive	JJ	positive
 thanksgiving	NN	thanksgiving
 ,	,	,
-that	IN/that	that
+that	IN	that
 the	DT	the
 Association	NP	Association
 never	RB	never
@@ -603,7 +603,7 @@ excommunicated	VVN	excommunicate
 To	TO	to
 the	DT	the
 extent	NN	extent
-that	IN/that	that
+that	IN	that
 he	PP	he
 was	VBD	be
 ostracized	VVN	ostracize

@@ -1,0 +1,12 @@
+tag	lingue	treetag
+PPC	1.0	,
+DET	1.0	DT
+PRP	1.0	PP$
+NNP	1.0	NP
+PPS	1.0	:
+VBG	1.0	VVN
+PPL	1.0	``
+PRPS	1.0	PP$
+PPR	1.0	``
+LRB	1.0	(
+RRB	1.0	)
